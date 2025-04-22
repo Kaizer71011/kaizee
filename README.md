@@ -1,0 +1,2 @@
+# kaizee
+business management system
